@@ -5,6 +5,7 @@
 * [协作与工具]()
     * [Tower](tower.md)
     * [瀑布IM](pubu.md)
-    * [石墨](shimo.md)
+    * [Zoom](zoom.md)
     * [Git](git.md)
+    * [石墨](shimo.md)
     * [Markdown](markdown.md)
